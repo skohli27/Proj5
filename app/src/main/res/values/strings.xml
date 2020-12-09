@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">"Museum Tickets"</string>
+    <string name="MuseumTickets">My Application</string>
+    <string name="Select">Button</string>
+    <string name="chooser">Select</string>
+    <string name="MOMA">"The Museum of Modern Art"</string>
+    <string name="momaurl">"moma.org"</string>
+    <string name="guggenheim">"The Solomon R. Guggenheim Museum"</string>
+    <string name="met">"The Metropolitan Museum of Art"</string>
+    <string name="mnh">"The Museum of Natural History"</string>
+    <string name="guggenheimurl">"guggenheim.org"</string>
+    <string name="meturl">"metmuseum.org"</string>
+    <string name="mnhurl">"amnh.org"</string>
+    <string name="adultPlus">+</string>
+    <string name="adultMinus">-</string>
+    <string name="zero">0</string>
+    <string name="adult_tickets_moma">Adult Tickets: $25</string>
+    <string name="metrpolitan_museum_of_art">Metrpolitan Museum of Art</string>
+    <string name="maxTickets">"A maximum of 5 tickets for each are allowed!"</string>
+    <string name="todo">MOMAPICS</string>
+    <string name="senior_tickets_18">Senior Tickets: $18</string>
+    <string name="student_tickets_14">Student Tickets: $14</string>
+</resources>
